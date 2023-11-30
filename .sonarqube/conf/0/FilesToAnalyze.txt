@@ -1,0 +1,17 @@
+﻿G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Contact.cs
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\FrmContacts.cs
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\FrmContacts.Designer.cs
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Program.cs
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Properties\AssemblyInfo.cs
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Serialise.cs
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\FrmContacts.resx
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Properties\Resources.resx
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Properties\Settings.settings
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\App.config
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Resources\vide.png
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Resources\modifier.png
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Resources\supprimer.png
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Resources\ajouter.png
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Resources\annuler.png
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Resources\playagain.png
+G:\test\testVisualStudio2019SonarQube\Contacts\Contacts\Resources\standard.png
